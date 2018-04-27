@@ -158,13 +158,31 @@
 					}
 				},
 				{
+					"file": "/D/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 10,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/D/Sublime Text 3/sublime_addright.inf",
 					"settings":
 					{
-						"buffer_size": 436,
+						"buffer_size": 514,
 						"encoding": "Western (Windows 1252)",
 						"line_ending": "Windows",
 						"name": "[Version]"
+					}
+				},
+				{
+					"file": "/D/Sublime Text 3/README.md",
+					"settings":
+					{
+						"buffer_size": 237,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -268,19 +286,47 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/D/Sublime Text 3/sublime_addright.inf",
+							"file": "/D/Sublime Text 3/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 436,
+								"buffer_size": 10,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										279,
-										283
+										10,
+										10
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Sublime Text 3/sublime_addright.inf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 514,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
 									]
 								],
 								"settings":
@@ -292,7 +338,35 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Sublime Text 3/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 237,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										196,
+										196
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -334,7 +408,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,903,202,203,1697",
+			"position": "0,0,1,-1,-1,-1,-1,946,303,208,1591",
 			"project": "",
 			"replace":
 			{
